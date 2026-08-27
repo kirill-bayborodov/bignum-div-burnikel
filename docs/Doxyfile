@@ -1,5 +1,5 @@
-# Reproducible documentation audit for bignum-template.
-PROJECT_NAME           = bignum-template
+# Reproducible documentation audit for bignum-div-burnikel.
+PROJECT_NAME           = bignum-div-burnikel
 PROJECT_NUMBER         = 1.1.0
 OUTPUT_DIRECTORY       = build/docs
 CREATE_SUBDIRS         = NO
